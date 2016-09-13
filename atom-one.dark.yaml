@@ -1,0 +1,19 @@
+scheme: "Atom One Dark"
+author: "Giulio Collura (https://www.gcollura.com)"
+base00: "282c34" # black
+base01: "636D83" # dark gray
+base01: "be5046" # red
+base02: "528bff" # selection bg
+base03: "5cb6c2" # comments
+base04: "61afef" # blue
+base05: "abb2bf" # light gray -- foreground
+base06: "56b6c2" # cyan
+base07: "dee2f7"
+base08: "e06c75" # bright red
+base09: "e5c07b" # bright orange
+base0A: "c678dd" # purple
+base0B: "98c379" # green
+base0C: "d19a66" # orange
+base0D: "56b6c2"
+base0E: "98c379"
+base0F: "828997"
